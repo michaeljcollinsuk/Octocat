@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A user can create a branch in order to make changes to a project without it changing the master branch. This is useful when you want to experiment, particularly on a projects with other people. When you are happy with the changes you can merge the branches to update the master.
