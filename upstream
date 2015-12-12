@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+upstream refers to the origin of a repository. For example, if you clone a repository from GitHub, you will be working 'downstream' from the original repository that is on GitHub. You can then push your changes back 'upstream' to GitHub.
